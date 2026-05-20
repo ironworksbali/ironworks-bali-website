@@ -1,0 +1,126 @@
+{
+  "categories": [
+    {
+      "id": "mirror",
+      "label": "Mirrors",
+      "labelId": "Cermin",
+      "cover": "images/mirror/20260314_162125.webp",
+      "images": [
+        "images/mirror/20260314_162125.webp",
+        "images/mirror/IMG-20250213-WA0065.webp",
+        "images/mirror/IMG-20250131-WA0061(2).webp",
+        "images/mirror/IMG-20250120-WA0057.webp",
+        "images/mirror/IMG-20241221-WA0071.webp",
+        "images/mirror/IMG_20241126_170620.webp",
+        "images/mirror/IMG-20241025-WA0040.webp",
+        "images/mirror/IMG-20240810-WA0032.webp",
+        "images/mirror/IMG-20240522-WA0016.webp",
+        "images/mirror/IMG-20240518-WA0072.webp",
+        "images/mirror/IMG_20240307_141713.webp",
+        "images/mirror/IMG_20231103_163717.webp",
+        "images/mirror/IMG_20231020_125052.webp",
+        "images/mirror/IMG_20231012_173950.webp",
+        "images/mirror/IMG-20230925-WA0056.webp",
+        "images/mirror/IMG-20230814-WA0035.webp",
+        "images/mirror/IMG_20230412_161538.webp",
+        "images/mirror/IMG_20221229_123015.webp",
+        "images/mirror/IMG_20220328_155131.webp",
+        "images/mirror/IMG-20220314-WA0044.webp",
+        "images/mirror/IMG-20210411-WA0012.webp"
+      ]
+    },
+    {
+      "id": "table",
+      "label": "Tables",
+      "labelId": "Meja",
+      "cover": "images/table/IMG_20230908_151648.webp",
+      "images": [
+        "images/table/IMG_20230908_151648.webp",
+        "images/table/IMG_20230828_095821.webp",
+        "images/table/IMG_20230106_164244.webp",
+        "images/table/IMG_20220816_112032.webp",
+        "images/table/IMG_20220810_191748.webp",
+        "images/table/IMG_20220713_114407.webp",
+        "images/table/IMG_20220712_145634.webp",
+        "images/table/IMG_20220521_154650.webp",
+        "images/table/IMG_20220507_171041.webp",
+        "images/table/IMG_20220413_132901.webp",
+        "images/table/IMG_20220212_095305.webp",
+        "images/table/IMG_20210920_104557.webp",
+        "images/table/IMG-20210913-WA0032.webp"
+      ]
+    },
+    {
+      "id": "stair",
+      "label": "Staircases",
+      "labelId": "Tangga",
+      "cover": "images/stair/20250709_184243.webp",
+      "images": [
+        "images/stair/20250709_184243.webp",
+        "images/stair/IMG-20240327-WA0061.webp",
+        "images/stair/IMG-20240125-WA0026.webp",
+        "images/stair/IMG-20231215-WA0035.webp",
+        "images/stair/IMG-20231122-WA0032.webp",
+        "images/stair/IMG_20230818_110850.webp",
+        "images/stair/IMG_20230614_100251.webp",
+        "images/stair/IMG_20230603_103615.webp",
+        "images/stair/IMG-20220314-WA0046.webp",
+        "images/stair/IMG-20220314-WA0049.webp",
+        "images/stair/IMG-20210622-WA0000.webp",
+        "images/stair/IMG-20201219-WA0014.webp"
+      ]
+    },
+    {
+      "id": "doorFrame",
+      "label": "Door Frames",
+      "labelId": "Bingkai Pintu",
+      "cover": "images/doorFrame/20260314_163424.webp",
+      "images": [
+        "images/doorFrame/20260314_163424.webp",
+        "images/doorFrame/IMG_20240417_152821.webp",
+        "images/doorFrame/IMG-20230723-WA0009.webp",
+        "images/doorFrame/IMG_20211007_163458.webp",
+        "images/doorFrame/IMG-20210813-WA0027.webp",
+        "images/doorFrame/IMG-20210806-WA0052.webp",
+        "images/doorFrame/IMG-20210728-WA0024.webp",
+        "images/doorFrame/IMG-20200717-WA0030.webp"
+      ]
+    },
+    {
+      "id": "sign",
+      "label": "Signs",
+      "labelId": "Papan Tanda",
+      "cover": "images/sign/20251101_101751.webp",
+      "images": [
+        "images/sign/20251101_101751.webp",
+        "images/sign/20251025_115557.webp",
+        "images/sign/20250828_181431.webp",
+        "images/sign/IMG_20240601_105248.webp",
+        "images/sign/IMG_20240531_163143.webp",
+        "images/sign/IMG-20240329-WA0000.webp",
+        "images/sign/IMG_20240115_150625.webp",
+        "images/sign/IMG-20230330-WA0036.webp",
+        "images/sign/IMG-20230118-WA0019.webp",
+        "images/sign/IMG-20220909-WA0088.webp",
+        "images/sign/IMG-20211006-WA0025.webp",
+        "images/sign/IMG_20210814_111103.webp",
+        "images/sign/IMG-20200202-WA0019.webp"
+      ]
+    },
+    {
+      "id": "roofRack",
+      "label": "Roof Racks",
+      "labelId": "Roof Rack",
+      "cover": "images/roofRack/IMG-20260312-WA0055.webp",
+      "images": [
+        "images/roofRack/IMG-20260312-WA0055.webp",
+        "images/roofRack/IMG-20260312-WA0056.webp",
+        "images/roofRack/IMG-20220314-WA0042.webp",
+        "images/roofRack/IMG-20210705-WA0009.webp",
+        "images/roofRack/IMG-20210705-WA0010.webp",
+        "images/roofRack/IMG-20210408-WA0029.webp",
+        "images/roofRack/IMG-20210327-WA0060.webp"
+      ]
+    }
+  ]
+}
